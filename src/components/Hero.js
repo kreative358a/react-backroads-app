@@ -1,6 +1,6 @@
 import confetti from "canvas-confetti";
 import splash from '../sounds/whip-whoosh-02.mp3'
-import ring from '../sounds/whip-whoosh-02.mp3'
+import ring from '../sounds/magic-chime-02.mp3'
 // const confettiSound = new Audio(
 //   "https://www.soundjay.com/misc/sounds/whip-whoosh-02.mp3"
 // );
